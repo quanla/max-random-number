@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/max-random-number/static/css/main.b73fafdf.chunk.css",
+    "main.css": "/max-random-number/static/css/main.7de75703.chunk.css",
     "main.js": "/max-random-number/static/js/main.ee940e9a.chunk.js",
     "main.js.map": "/max-random-number/static/js/main.ee940e9a.chunk.js.map",
     "runtime~main.js": "/max-random-number/static/js/runtime~main.e1b75837.js",
@@ -8,9 +8,9 @@
     "static/js/2.875e0f04.chunk.js": "/max-random-number/static/js/2.875e0f04.chunk.js",
     "static/js/2.875e0f04.chunk.js.map": "/max-random-number/static/js/2.875e0f04.chunk.js.map",
     "index.html": "/max-random-number/index.html",
-    "precache-manifest.dd54884c69d66359baaed6e52765bc2f.js": "/max-random-number/precache-manifest.dd54884c69d66359baaed6e52765bc2f.js",
+    "precache-manifest.431092507dc9b6a46a76311144f379a5.js": "/max-random-number/precache-manifest.431092507dc9b6a46a76311144f379a5.js",
     "service-worker.js": "/max-random-number/service-worker.js",
-    "static/css/main.b73fafdf.chunk.css.map": "/max-random-number/static/css/main.b73fafdf.chunk.css.map",
+    "static/css/main.7de75703.chunk.css.map": "/max-random-number/static/css/main.7de75703.chunk.css.map",
     "static/media/logo.svg": "/max-random-number/static/media/logo.5d5d9eef.svg"
   }
 }
